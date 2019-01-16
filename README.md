@@ -1,6 +1,7 @@
 # bom-tracker
 Implementation project-based workflow for manufacture-to-order companies 
-According to e-bom and documentation in generic formats:
+Based on a relational e-bom and production documentation in generic formats:
+
   1. Import bom data from csv and excel files.
   2. Automatically Deduce hirearchical part-assembly links.
   3. Automatically Link any drawings and specification to the line items of the e-bom.
